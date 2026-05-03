@@ -1,0 +1,13 @@
+building,total_area,mean_area,median_area
+apartments,159103.5,373.5,137.2
+commercial,4378.0,625.4,536.9
+garages,55170.7,862.0,490.0
+hospital,3442.1,3442.1,3442.1
+house,4019.3,211.5,73.7
+industrial,34818.5,17409.2,17409.2
+kiosk,27.2,27.2,27.2
+public,21737.9,805.1,541.3
+residential,138637.1,352.8,348.2
+retail,662.8,165.7,81.2
+roof,131.4,131.4,131.4
+train_station,257.6,257.6,257.6

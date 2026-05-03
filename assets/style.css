@@ -1,0 +1,134 @@
+/* Основной фон и текст */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #F5F7FA !important;
+  color: #111111 !important;
+  font-family: 'IBM Plex Sans', 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* React root */
+#react-entry-point,
+#_dash-app-content,
+.dash-renderer {
+  background-color: #F5F7FA !important;
+  min-height: 100vh;
+}
+
+/* Все div-ы по умолчанию светлые */
+.dash-graph,
+.js-plotly-plot,
+.plotly,
+.plot-container {
+  background-color: #FFFFFF !important;
+}
+
+/* Plotly SVG фон */
+.main-svg,
+.main-svg .bg {
+  fill: #FFFFFF !important;
+}
+
+/* Загрузочный экран */
+._dash-loading,
+._dash-loading-callback {
+  background-color: #F5F7FA !important;
+}
+
+/* Дропдаун (выбор остановок) */
+.Select-control,
+.Select-menu-outer,
+.VirtualizedSelectOption {
+  background-color: #FFFFFF !important;
+  color: #111111 !important;
+  border-color: #E2E8F0 !important;
+}
+
+.Select-value-label,
+.Select-placeholder,
+.Select-input input {
+  color: #111111 !important;
+}
+
+.Select--single > .Select-control .Select-value,
+.Select-option {
+  color: #111111 !important;
+  background-color: #FFFFFF !important;
+}
+
+.Select-option:hover,
+.Select-option.is-focused {
+  background-color: #EFF6FF !important;
+  color: #2563EB !important;
+}
+
+/* Dash dcc.Dropdown */
+.dash-dropdown .Select-control {
+  background-color: #FFFFFF !important;
+  border: 1px solid #E2E8F0 !important;
+}
+
+/* Чекбоксы и радио */
+.dash-checklist label,
+.dash-radio-items label {
+  color: #111111 !important;
+}
+
+/* Слайдер */
+.rc-slider-track {
+  background-color: #2563EB !important;
+}
+
+.rc-slider-handle {
+  border-color: #2563EB !important;
+  background-color: #FFFFFF !important;
+}
+
+/* Кнопки */
+button {
+  font-family: 'IBM Plex Sans', sans-serif !important;
+}
+
+/* Карты (Plotly Mapbox/Map) */
+.mapboxgl-map,
+.maplibregl-map {
+  background-color: #E8ECF0 !important;
+}
+
+/* Скроллбары */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Plotly модальные подсказки (hover) */
+.hovertext text {
+  fill: #111111 !important;
+}
+
+/* Текст внутри графиков */
+.xtick text,
+.ytick text,
+.gtitle,
+.legendtext,
+.annotation-text {
+  fill: #111111 !important;
+}
+
+.gridlayer path {
+  stroke: #E2E8F0 !important;
+}

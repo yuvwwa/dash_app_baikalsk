@@ -1,0 +1,13 @@
+building,mean_floors,median_floors,min_floors,max_floors
+apartments,3.01,3.0,1.0,5.0
+commercial,1.0,1.0,1.0,1.0
+garages,1.0,1.0,1.0,1.0
+hospital,1.0,1.0,1.0,1.0
+house,1.21,1.0,1.0,2.0
+industrial,1.0,1.0,1.0,1.0
+kiosk,1.0,1.0,1.0,1.0
+public,1.0,1.0,1.0,1.0
+residential,1.0,1.0,1.0,1.0
+retail,1.25,1.0,1.0,2.0
+roof,1.0,1.0,1.0,1.0
+train_station,1.0,1.0,1.0,1.0

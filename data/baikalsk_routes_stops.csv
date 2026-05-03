@@ -1,0 +1,74 @@
+route,direction,stop_order,stop_name,stop_url
+5,1,1,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+5,1,2,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+5,1,3,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+5,1,4,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+5,1,5,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+5,1,6,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+5,1,7,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+5,1,8,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+5,1,9,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+5,1,10,Пост ГИБДД,https://baykalsk.ginfo.ru/ostanovki/14/post_gibdd/
+5,1,11,Сангородок,https://baykalsk.ginfo.ru/ostanovki/15/sangorodok/
+5,2,1,Сангородок,https://baykalsk.ginfo.ru/ostanovki/15/sangorodok/
+5,2,2,Пост ГИБДД,https://baykalsk.ginfo.ru/ostanovki/14/post_gibdd/
+5,2,3,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+5,2,4,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+5,2,5,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+5,2,6,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+5,2,7,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+5,2,8,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+5,2,9,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+5,2,10,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+6,1,1,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+6,1,2,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+6,1,3,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+6,1,4,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+6,1,5,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+6,1,6,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+6,1,7,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+6,1,8,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+6,1,9,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+6,1,10,Пост ГИБДД,https://baykalsk.ginfo.ru/ostanovki/14/post_gibdd/
+6,1,11,Сангородок,https://baykalsk.ginfo.ru/ostanovki/15/sangorodok/
+6,1,12,Горный,https://baykalsk.ginfo.ru/ostanovki/6/gornyy/
+6,1,13,Бабха-2,https://baykalsk.ginfo.ru/ostanovki/5/babha-2/
+6,2,1,Бабха-2,https://baykalsk.ginfo.ru/ostanovki/5/babha-2/
+6,2,2,Горный,https://baykalsk.ginfo.ru/ostanovki/6/gornyy/
+6,2,3,Сангородок,https://baykalsk.ginfo.ru/ostanovki/15/sangorodok/
+6,2,4,Пост ГИБДД,https://baykalsk.ginfo.ru/ostanovki/14/post_gibdd/
+6,2,5,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+6,2,6,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+6,2,7,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+6,2,8,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+6,2,9,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+6,2,10,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+6,2,11,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+6,2,12,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+6,2,13,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+4,1,1,Ж/д вокзал,https://baykalsk.ginfo.ru/ostanovki/18/zh-d_vokzal/
+4,1,2,Солзан,https://baykalsk.ginfo.ru/ostanovki/8/solzan/
+4,1,3,Дачи,https://baykalsk.ginfo.ru/ostanovki/10/dachi/
+4,1,4,202 км,https://baykalsk.ginfo.ru/ostanovki/13/202_km/
+4,1,5,Ракета,https://baykalsk.ginfo.ru/ostanovki/12/raketa/
+4,1,6,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+4,1,7,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+4,1,8,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+4,1,9,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+4,1,10,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+4,1,11,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+4,1,12,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+4,1,13,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+4,2,1,Гагарина,https://baykalsk.ginfo.ru/ostanovki/2/gagarina/
+4,2,2,Спорткомплекс,https://baykalsk.ginfo.ru/ostanovki/9/sportkompleks/
+4,2,3,Общежития,https://baykalsk.ginfo.ru/ostanovki/20/obschezhitiya/
+4,2,4,МЖК,https://baykalsk.ginfo.ru/ostanovki/4/mzhk/
+4,2,5,Автостанция,https://baykalsk.ginfo.ru/ostanovki/19/avtostanciya/
+4,2,6,Маяк,https://baykalsk.ginfo.ru/ostanovki/7/mayak/
+4,2,7,Привокзальная,https://baykalsk.ginfo.ru/ostanovki/11/privokzalnaya/
+4,2,8,Площадь Юбилейная,https://baykalsk.ginfo.ru/ostanovki/17/ploschad_yubileynaya/
+4,2,9,Ракета,https://baykalsk.ginfo.ru/ostanovki/12/raketa/
+4,2,10,202 км,https://baykalsk.ginfo.ru/ostanovki/13/202_km/
+4,2,11,Дачи,https://baykalsk.ginfo.ru/ostanovki/10/dachi/
+4,2,12,Солзан,https://baykalsk.ginfo.ru/ostanovki/8/solzan/
+4,2,13,Ж/д вокзал,https://baykalsk.ginfo.ru/ostanovki/18/zh-d_vokzal/

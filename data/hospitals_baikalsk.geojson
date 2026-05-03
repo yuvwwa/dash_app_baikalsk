@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "hospitals_baikalsk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "name": "Слюдянская больница", "functional_type": "Больницы", "address": "​Микрорайон Красный ключ, 92, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.512071, "lon": 104.121946, "info": "ОГБУЗ Слюдянская районная больница" }, "geometry": { "type": "Point", "coordinates": [ 104.121946, 51.512071 ] } },
+{ "type": "Feature", "properties": { "id": "2", "name": "Слюдянская больница", "functional_type": "​Детская консультация", "address": "Микрорайон Красный ключ, 92, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.512071, "lon": 104.121946, "info": "ОГБУЗ Слюдянская районная больница" }, "geometry": { "type": "Point", "coordinates": [ 104.121946, 51.512071 ] } },
+{ "type": "Feature", "properties": { "id": "3", "name": "Детская поликлиника", "functional_type": "Поликлиника", "address": "Микрорайон Красный ключ, 92, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.512071, "lon": 104.121946, "info": "ОГБУЗ Слюдянская районная больница" }, "geometry": { "type": "Point", "coordinates": [ 104.121946, 51.512071 ] } },
+{ "type": "Feature", "properties": { "id": "4", "name": "Зубная фея", "functional_type": "Стоматологическая клиника", "address": "Микрорайон Гагарина, 1, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.522714, "lon": 104.151114, "info": "Нет данных" }, "geometry": { "type": "Point", "coordinates": [ 104.151114, 51.522714 ] } },
+{ "type": "Feature", "properties": { "id": "5", "name": "Стоматологическая клиника", "functional_type": "Частные стоматологии", "address": "Микрорайон Гагарина, 170, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.521868, "lon": 104.150045, "info": "Нет данных" }, "geometry": { "type": "Point", "coordinates": [ 104.150045, 51.521868 ] } },
+{ "type": "Feature", "properties": { "id": "6", "name": "Кабинет УЗИ", "functional_type": "​Медицинская диагностика", "address": "Микрорайон Гагарина, 214, Байкальск, Слюдянский район, Иркутская область", "rating": null, "lat": 51.522535, "lon": 104.147269, "info": "Нет данных" }, "geometry": { "type": "Point", "coordinates": [ 104.147269, 51.522535 ] } }
+]
+}
